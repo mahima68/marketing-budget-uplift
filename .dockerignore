@@ -1,0 +1,6 @@
+*
+!requirements-app.txt
+!api.py
+!dashboard/
+!dashboard/dist/
+!dashboard/dist/**

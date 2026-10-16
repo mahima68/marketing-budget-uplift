@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+.mpl-cache/
+.ipynb_checkpoints/
+.DS_Store
+data/*.pkl.gz
+data/*.csv.gz
+data/*.part
+results/split_indices.npz
+dashboard/.openai/
+dashboard/.sites/
