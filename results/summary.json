@@ -1,0 +1,15 @@
+{
+  "winner": "Boosted S-learner",
+  "conclusion": "The test does not establish that the selected model beats both baselines at the nominal 95% level. Treat it as a candidate for further testing, not a proven improvement.",
+  "sample_rows": 1537120,
+  "test_rows": 307424,
+  "diagnostics": {
+    "treated_test_roc_auc": 0.9571023212074259,
+    "treated_test_average_precision": 0.24425581142141256,
+    "treated_test_prevalence": 0.0030679070906141936,
+    "treated_test_log_loss": 0.01231629071704448
+  },
+  "seed": 42,
+  "assignment_probability": 0.8503434995315915,
+  "python": "3.12.14"
+}

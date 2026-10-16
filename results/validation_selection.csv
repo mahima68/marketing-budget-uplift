@@ -1,0 +1,6 @@
+strategy,incremental_per_100k
+Boosted S-learner,104.18131064334337
+Likely buyers,99.69984115574962
+Linear T-learner,95.35930991129527
+Boosted T-learner 15,84.25406902397555
+Boosted T-learner 31,82.81949480976824

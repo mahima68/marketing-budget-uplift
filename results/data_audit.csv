@@ -1,0 +1,17 @@
+,dtype,missing,unique
+f0,float32,0,828709
+f1,float32,0,40
+f2,float32,0,445413
+f3,float32,0,405
+f4,float32,0,143
+f5,float32,0,77
+f6,float32,0,1118
+f7,float32,0,79482
+f8,float32,0,2338
+f9,float32,0,1025
+f10,float32,0,65040
+f11,float32,0,76
+treatment,int8,0,2
+conversion,int8,0,2
+visit,int8,0,2
+exposure,int8,0,2
