@@ -1,3 +1,22 @@
+## Public results — no sign-in required
+
+[Open the public interactive dashboard](https://mahima68.github.io/marketing-budget-uplift/) · [Read the decision memo](BUSINESS_REPORT.md)
+
+At fixed 20% targeting capacity, the validation-selected Boosted S-learner estimates **88.0 additional purchases per 100,000 eligible users** versus targeting nobody (nominal 95% interval: 48.1–127.9).
+
+| Paired comparison | Difference per 100,000 eligible users | Nominal 95% interval |
+|---|---:|---:|
+| Selected uplift policy minus random targeting | +68.7 | +36.7 to +100.7 |
+| Selected uplift policy minus likely-buyer targeting | −0.15 | −5.76 to +5.47 |
+
+The policy improved on random targeting in this benchmark, but did not establish an improvement over likely-buyer targeting. A fresh policy-level experiment is recommended before rollout. Costs and margins are hypothetical; no actual ROI improvement is claimed.
+
+![Held-out targeting comparison](results/02_policy_comparison.png)
+
+The public demo explores existing held-out results and uses no login or paid API. The original private demo below remains an alternative.
+
+---
+
 # Marketing Budget Optimization Using Uplift Modelling
 
 **A notebook-based business data science project.**
